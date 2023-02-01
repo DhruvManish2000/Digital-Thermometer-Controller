@@ -1,6 +1,6 @@
 # Digital-Thermometer-Controller
 
-The design acheives the following:
+The design achieves the following:
 
 - Detects Temperature with internal sensor in ATmega328P
 - Detects Temperature with external LM35 sensor
